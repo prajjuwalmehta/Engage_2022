@@ -21,4 +21,11 @@ you can also see the graphs in project graphs folder
 
 paste the config file into .streamlit folder to activate custom theme
 
+run the prajjuwalmicro.py file as it contains all the code and with the help of streamlit it will trigger the local host as well
+
+in anaconda prompt write streamlit run then the path of the file then the file name
+streamlit run C:\Users\HP\.spyder-py3\prajjuwalmicro.py
+like this 
+it will host the web application
+
 
